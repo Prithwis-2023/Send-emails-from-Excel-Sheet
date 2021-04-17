@@ -4,7 +4,7 @@ Created on Fri Apr 16 00:21:24 2021
 
 @author: Prithwis
 """
-print("FOR THIS APPLICATION TO RUN PROPERLY, YOU NEED TO GIVE ACCESS TO LESS SECURE APPS IN YOUR GMAIL ACCOUNT. VISIT: https://www.google.com/settings/security/lesssecureapps FOR ALLOWING.")
+print("FOR THIS PROGRAM TO RUN PROPERLY, YOU NEED TO GIVE ACCESS TO LESS SECURE APPS IN YOUR GMAIL ACCOUNT. VISIT: https://www.google.com/settings/security/lesssecureapps FOR ALLOWING.")
 import xlrd
 import pandas as pd
 import smtplib
